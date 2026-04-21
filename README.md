@@ -1,4 +1,4 @@
-# WARSG (Web-based Apps Script Registration & Sync Generator)
+# WARSG (Web-based Automatic Response System Generator)
 
 WARSG is a professional-grade Google Apps Script generator designed to automate the lifecycle of seminar registration and payment verification. It bridges the gap between Google Forms, SMS-based mobile payments (specifically bKash), and automated email communication, allowing for a fully hands-off registration system.
 
