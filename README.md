@@ -1,6 +1,6 @@
 # WARSG (Web-based Automatic Response System Generator)
 
-WARSG is a professional-grade Google Apps Script generator designed to automate the lifecycle of seminar registration and payment verification. Inspired by [PARS](https://github.com/Jawad-Nahin/PARS) it bridges the gap between Google Forms, SMS-based mobile payments (specifically bKash), and automated email communication, allowing for a fully hands-off registration system.
+WARSG is a professional-grade Google Apps Script generator designed to automate the lifecycle of seminar registration and payment verification. Inspired by [PARS](https://github.com/Jawad-Nahin/PARS). It bridges the gap between Google Forms, SMS-based mobile payments (specifically bKash), and automated email communication, allowing for a fully hands-off registration system.
 
 ## System Architecture
 
